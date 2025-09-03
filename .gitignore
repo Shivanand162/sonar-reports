@@ -110,3 +110,5 @@ ENV/
 .vscode/
 .idea/
 
+# SonarQube Exports
+sonarqube-export/
